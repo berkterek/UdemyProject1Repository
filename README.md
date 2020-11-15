@@ -1,2 +1,2 @@
 # UdemyProject1Repository
-Udemy egitimi icin hazirlanmistir
+Udemy 2d egitimi icin hazirlanmistir
